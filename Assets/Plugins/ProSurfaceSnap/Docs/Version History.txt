@@ -1,0 +1,14 @@
+Release 2.0 (Complete rebuild - name changd to ProSurfaceSnap)
+-------------------------------------------------------------------------
+[New Feature]: rotate around anchor point;
+[New Feature]: offset from anchor point;
+[New Feature]: adjust anchor point;
+[New Feature]: explicit support for spherical surfaces;
+[New Feature]: layer override snap settings;
+
+[Improvement]: it is now possible to choose the types of surfaces that can be 
+			   used for snapping (mesh, terrain and/or scene grid);
+[Improvement]: it is now possible to choose the layers that can act as snap surfaces;
+[Improvement]: improved snapping when axis alignment is turned off;
+[Improvement]: the snap functionality now works directly with the selected objects,
+			   regardless of the currently active transform gizmo;
