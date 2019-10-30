@@ -151,6 +151,8 @@ PlayerSettings:
       sharedDepthBuffer: 0
       dashSupport: 0
       lowOverheadMode: 0
+      protectedContext: 0
+      v2Signing: 0
     enable360StereoCapture: 0
   isWsaHolographicRemotingEnabled: 0
   protectGraphicsMemory: 0
@@ -603,8 +605,8 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Build: 1
-    Collab: 1
+    Build: 0
+    Collab: 0
     UNet: 1
   luminIcon:
     m_Name: 
